@@ -1,0 +1,15 @@
+/Users/olgabazulina/Desktop/sem10/001/bin/Debug/net6.0/001
+/Users/olgabazulina/Desktop/sem10/001/bin/Debug/net6.0/001.deps.json
+/Users/olgabazulina/Desktop/sem10/001/bin/Debug/net6.0/001.runtimeconfig.json
+/Users/olgabazulina/Desktop/sem10/001/bin/Debug/net6.0/001.dll
+/Users/olgabazulina/Desktop/sem10/001/bin/Debug/net6.0/001.pdb
+/Users/olgabazulina/Desktop/sem10/001/obj/Debug/net6.0/001.csproj.AssemblyReference.cache
+/Users/olgabazulina/Desktop/sem10/001/obj/Debug/net6.0/001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgabazulina/Desktop/sem10/001/obj/Debug/net6.0/001.AssemblyInfoInputs.cache
+/Users/olgabazulina/Desktop/sem10/001/obj/Debug/net6.0/001.AssemblyInfo.cs
+/Users/olgabazulina/Desktop/sem10/001/obj/Debug/net6.0/001.csproj.CoreCompileInputs.cache
+/Users/olgabazulina/Desktop/sem10/001/obj/Debug/net6.0/001.dll
+/Users/olgabazulina/Desktop/sem10/001/obj/Debug/net6.0/refint/001.dll
+/Users/olgabazulina/Desktop/sem10/001/obj/Debug/net6.0/001.pdb
+/Users/olgabazulina/Desktop/sem10/001/obj/Debug/net6.0/001.genruntimeconfig.cache
+/Users/olgabazulina/Desktop/sem10/001/obj/Debug/net6.0/ref/001.dll
