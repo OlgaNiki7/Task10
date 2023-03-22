@@ -12,3 +12,13 @@ void SecondArray(string[] array, string[] array1)
         }
     }
 }
+void PrintArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+    Console.WriteLine();
+}
+SecondArray(array, array1);
+PrintArray(array1);
