@@ -1,4 +1,8 @@
-﻿string[] array = new string[5] {"999", "99", "hello", "world", "cat"};
+﻿//Написать программу, которая из имеющегося массива строк формирует новый массив
+// из строк, длина которых меньше, либо равна 3 символам. 
+
+
+string[] array = new string[5] {"999", "99", "hello", "world", "cat"};
 string[] array1 = new string[array.Length];
 void SecondArray(string[] array, string[] array1)
 {
